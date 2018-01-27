@@ -1,0 +1,36 @@
+body{
+	font-family: "arial", sans-serif;
+}
+#first{
+	background-color: black;
+	height: 100vh;
+	text-align: center;
+}
+#logo{
+	height: 55px;
+	margin-top: 10vh;
+}
+#flex{
+	margin-top: 25vh;	
+}
+#glad{
+	margin-right: 37vw;
+	margin-left: 37vw;
+}
+#round{
+	margin-top: 23vh;
+	height: 20px;
+	border: 2px solid gray;
+	border-radius: 50%;
+	padding: 3px;
+}
+.white{
+	color: white
+}
+.caps{
+	font-weight: bold;
+	font-size:2.5em;
+}
+#second{
+    background-image: url(pattern.png);
+}

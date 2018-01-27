@@ -1,0 +1,10 @@
+https://meyerweb.com/eric/tools/css/reset/
+http://nicolasgallagher.com/about-normalize-css/
+https://cssreset.com/ - 2015Тs most popular CSS Reset scripts
+http://linux.yaroslavl.ru/docs/www/css/reset_css.html - коллекци€ CSS Reset Ц стилей
+
+https://webformyself.com/css-reset-ili-normalize/
+https://the-pastry-box-project.net/oli-studholme/2013-june-3 - CSS: reset or normalize?
+
+–абота на уроке: создаем страничку на основе заготовки Starter и макета i_love_design.psd:
+https://github.com/alexcss/starter-simple
